@@ -2,14 +2,14 @@
 <menu xmlns:android="http://schemas.android.com/apk/res/android">
     <item
         android:id="@+id/nav_premiere"
-        android:icon="@android:drawable/ic_menu_view"
-        android:title="Home" />
+        android:icon="@drawable/ic_premierleague"
+        android:title="Premiere League" />
     <item
         android:id="@+id/nav_laliga"
-        android:icon="@android:drawable/ic_menu_manage"
-        android:title="Dashboard" />
+        android:icon="@drawable/ic_laliga"
+        android:title="La Liga" />
     <item
         android:id="@+id/nav_profile"
         android:icon="@android:drawable/ic_menu_info_details"
-        android:title="Notifications" />
+        android:title="Profile" />
 </menu>
